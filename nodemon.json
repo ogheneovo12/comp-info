@@ -1,0 +1,6 @@
+{
+  "watch": ["src", "data", "companies"],
+  "ext": ".ts,.js,.mdx",
+  "ignore": [],
+  "exec": "npm run dev"
+}
