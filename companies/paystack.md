@@ -9,5 +9,4 @@ api_doc_url: https://paystack.com/docs/
 api_auth: apikey
 logo: https://www.paidmembershipspro.com/wp-content/uploads/2022/01/Paystack-Gateway-Add-On-Icon-300x300.png
 ---
-
 Modern online and offline payments for Africa, Paystack helps businesses in Africa get paid by anyone, anywhere in the world
