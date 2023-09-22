@@ -11,7 +11,7 @@ const COMPANIES_PATH = path.join(process.cwd(), './companies');
 const companiesFilePaths = fs
   .readdirSync(COMPANIES_PATH)
   // Only include md(x) files
-  .filter((file_path) => /\.mdx?$/.test(file_path));
+  .filter((file_path) => /\.md?$/.test(file_path));
 
 const buildDataSource = () => {
   companiesFilePaths?.map((companyPath) => {
